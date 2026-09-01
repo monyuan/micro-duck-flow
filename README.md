@@ -1,4 +1,6 @@
-# [中文](/README.md)  [English](/README-EN.md)
+## [English](/README-EN.md)
+---
+
 # 跟踪 Micro Duck 复刻进度
 
 ## 已知道的可用资源
