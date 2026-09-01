@@ -1,4 +1,8 @@
-**# Tracking the Progress of Micro Duck Replicas**
+# [中文](/README.md) 
+
+---
+
+# Tracking the Progress of Micro Duck Replicas**
 
 ## Known Available Resources
 1. 3D print files (fully printable)  
